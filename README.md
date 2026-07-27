@@ -10,6 +10,8 @@
 
 ## Overview
 
+![tw](image/2body.png)
+
 This project implements an interactive N-body gravitational simulator running on the DE1-SoC platform.
 
 The simulator models gravitational interactions between multiple celestial bodies in real time while allowing users to create new objects and adjust their initial velocities through keyboard input. The simulation continuously updates object trajectories and visualizes the results using VGA graphics.
@@ -59,7 +61,14 @@ I was responsible for developing the physics engine and simulation logic, while 
 
 ## Demonstration
 
-> *(Insert GIF or video here.)*
+2-body
+![two](image/2body.png)
+
+3-body
+![three](image/3body.png)
+
+4-body
+![four](image/4body.png)
 
 ---
 
