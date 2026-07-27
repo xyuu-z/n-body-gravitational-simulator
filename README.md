@@ -31,23 +31,7 @@ I was responsible for developing the physics engine and simulation logic, while 
 
 ## System Architecture
 
-> *(Insert architecture diagram here)*
-
-```
-Keyboard
-     │
-     ▼
-Physics Engine
-     │
-     ▼
-Collision Detection
-     │
-     ▼
-Simulation Update
-     │
-     ▼
-VGA Renderer
-```
+![arch](image/arch.png)
 
 ---
 
@@ -93,17 +77,6 @@ The simulator supports creating new celestial bodies during runtime while mainta
 
 The physics engine continuously updates object motion while coordinating with VGA rendering to provide smooth visualization.
 
----
-
-## Skills Demonstrated
-
-- C Programming
-- Physics Simulation
-- Memory-Mapped I/O
-- Real-Time Systems
-- Collision Detection
-- Numerical Methods
-- Team Collaboration
 
 ---
 
@@ -111,14 +84,6 @@ The physics engine continuously updates object motion while coordinating with VG
 
 This project strengthened my understanding of real-time simulation, numerical stability, and low-level programming on embedded hardware. It also provided experience collaborating on a larger software system by dividing responsibilities between the simulation engine and graphics rendering.
 
----
-
-## Repository Structure
-
-```
-README.md
-images/
-```
 
 ---
 
