@@ -25,7 +25,6 @@ I was responsible for developing the physics engine and simulation logic, while 
 - Real-time N-body gravitational simulation
 - Interactive object creation through keyboard input
 - Adjustable initial velocity for new objects
-- Collision handling between celestial bodies
 - Continuous trajectory visualization
 - Memory-mapped I/O on the DE1-SoC platform
 
