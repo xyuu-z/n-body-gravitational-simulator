@@ -2,7 +2,7 @@
 
 > A real-time gravitational simulation developed in C for the DE1-SoC platform, featuring interactive object creation, orbital motion, and real-time visualization.
 
-> **University of Toronto | ECE243 | Computer Organization Course Project**
+> **Computer Organization Course Project**
 
 > **Note:** The source code is not publicly available due to University of Toronto academic integrity policies.
 
